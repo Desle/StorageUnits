@@ -1,0 +1,25 @@
+STORAGE_UNITS:
+    BASIC:
+        ID: 1
+        DISPLAY_NAME: '&9Basic Energy Storage Unit'
+        CAPACITY: 5000
+        MATERIAL_NAME: 'HOPPER_MINECART'
+        LORE:
+            - '&8Required to fuel all'
+            - '&8Energy related items'
+    PROFICIENT:
+        ID: 2
+        DISPLAY_NAME: '&DProficient Energy Storage Unit'
+        CAPACITY: 50000
+        MATERIAL_NAME: 'POWERED_MINECART'
+        LORE:
+            - '&8Required to fuel all'
+            - '&8Energy related items'
+    ADVANCED:
+        ID: 3
+        DISPLAY_NAME: '&6Advanced Energy Storage Unit'
+        CAPACITY: 250000
+        MATERIAL_NAME: 'EXPLOSIVE_MINECART'
+        LORE:
+            - '&8Required to fuel all'
+            - '&8Energy related items'

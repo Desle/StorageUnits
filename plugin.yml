@@ -1,0 +1,6 @@
+name: storageUnits
+main: com.desle.storageUnits.Main
+author: Desle
+version: 1.0
+commands:
+    storageunit:
